@@ -11,7 +11,7 @@ Hence, creating a platform for the physiologist to update exercise tutorial to p
 
 ## Doctor's Dashboard 
 
-![Alt text](./images/Dashboard.png "Doctor's Dashboard ")
+![Alt text](./image/Dashboard.png "Doctor's Dashboard ")
 
 ## Physioassist Ionic Mobile View 
 
