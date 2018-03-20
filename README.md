@@ -16,4 +16,4 @@ Hence, creating a platform for the physiologist to update exercise tutorial to p
 ## Physioassist Ionic Mobile View 
 
 ![Alt text](./image/IonicView1.png "Ionic Mobile View ")
-![Alt text](./image/IonicView1.png "Ionic Mobile View ")
+![Alt text](./image/IonicView2.png "Ionic Mobile View ")
