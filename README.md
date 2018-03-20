@@ -9,3 +9,11 @@ Hence, creating a platform for the physiologist to update exercise tutorial to p
 1. Computer Vision: For physiologist to verify whether the patient to doing the exercise correctly 
 2. Artificial intelligence: As a gather data from the patients, we are able to predict the most proper exercise routine for the patients
 
+## Doctor's Dashboard 
+
+![Alt text](./images/Dashboard.png "Doctor's Dashboard ")
+
+## Physioassist Ionic Mobile View 
+
+![Alt text](./images/IonicView1.png "Ionic Mobile View ")
+![Alt text](./images/IonicView1.png "Ionic Mobile View ")
